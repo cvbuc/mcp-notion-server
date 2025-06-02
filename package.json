@@ -13,7 +13,7 @@
     "build",
     "Readme.md"
   ],
-  "scripts": {
+"scripts": {
   "start": "node build/index.js",
   "build": "tsc",
   "prepare": "npm run build",
@@ -22,7 +22,6 @@
   "test": "vitest run",
   "test:watch": "vitest"
 }
-
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.11.2",
