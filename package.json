@@ -22,7 +22,7 @@
   "test": "vitest run",
   "test:watch": "vitest"
 }
-  },
+  }
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.11.2",
     "node-fetch": "^2.7.0",
